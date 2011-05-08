@@ -1,0 +1,3 @@
+h1. Kannel (custom)
+
+This is a version of kannel tailored to work with both rails apps and django-rapidsms
